@@ -27,7 +27,7 @@ Begin           | Playing
 
 ## How To Use It
 1. Download Processing3 from this link: https://processing.org/download/
-2. Install this repository, click <a href="https://github.com/mohamedyanis/Avoid-Blocks-Game/archive/master.zip"> here </a> to install it.
+2. Install this repository, click <a href="https://github.com/mohamedyanis/fishing-game/archive/master.zip"> here </a> to install it.
 3. Extract the folder.
 4. Open the ```FISH.pde``` file.
 5. Run it :)
